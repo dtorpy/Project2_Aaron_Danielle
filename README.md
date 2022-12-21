@@ -5,7 +5,7 @@ Project2 Github
 Sources:
 https://www.epa.gov/ghgreporting/data-sets
 Emmisions by Fuel and Data Type
-This included 2 data sources
+this included 2 data sources
 
 Database Type:
 Relational Database because we want to join on facility id
